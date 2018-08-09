@@ -17,4 +17,6 @@ The goal of this project is to be able to display the trombinoscope of the class
 
 ## Relational model
 
-![Relational model](images/relational_model.png)
+<p align="center">
+  <img src="./images/relational_model.png" alt="Relational model">
+</p>
