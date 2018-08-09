@@ -3,7 +3,7 @@
 Authors: Loan Lassalle and Stéphane Martignier
 ***
 
-## The purpose
+## Purpose
 
 The goal of this project is to be able to display the trombinoscope of the class and via this interface to manage the delays and absences of each student. Teachers will have secure access via a user account and password. The data will be stored in a database.
 
