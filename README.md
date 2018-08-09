@@ -1,6 +1,6 @@
 # ManagerLatenessAbsence :: Manage delays and absences of students in a class
 
-Authors: Stéphane Martignier and Loan Lassalle
+Authors: Loan Lassalle and Stéphane Martignier
 ***
 
 ## The purpose
